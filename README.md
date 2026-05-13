@@ -45,7 +45,7 @@
 ## 📁 專案資源 (Project Resources)
 
 - 🐍 **數據來源**：包含 FRED與台灣中央銀行統計數據。
-- 📊 **[研究報告 (PDF
+- 📊 **[點擊此處下載完整 PDF 研究報告 (PDF
   Report)](./Interest_Rate_Risk_and_Term_Structure_Comparison.pdf)**：完整研究報告內容呈現。
 
 ## 👥 專案背景與團隊分工 (Project Background & Credits)
